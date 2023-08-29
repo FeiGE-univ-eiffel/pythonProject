@@ -7,3 +7,5 @@ for i in range(10):
 
 import math
 print(abs(1-2))
+
+print("hello world!")
