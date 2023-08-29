@@ -4,3 +4,6 @@ for i in range(10):
 # this is for the update test
 
 # this is also for test
+
+import math
+print(abs(1-2))
